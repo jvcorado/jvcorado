@@ -8,10 +8,9 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Pós Graduando em Front-end Engineering
 - 💻 Desenvolvedor front-end com foco em interfaces modernas, acessibilidade e performance
 - 🎯 Atualmente trabalhando com **React**, **TypeScript**, **Next.js** e **Tailwind CSS**
-- 🌱 Aprendendo **C**, **C++**, e aprofundando em **Node.js**
 - 🤝 Aberto a colaborar em projetos e ideias interessantes
 
 ---
