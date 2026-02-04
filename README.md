@@ -19,7 +19,7 @@ Comfortable in Agile environments, collaborating closely with designers, PMs, an
 ## 🌐 Socials
 
 <p align="left">
-  <a href="mailto:joaovictorcorado@gmail.com">
+  <a href="mailto: developerjvc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joaovictorcorado/">
@@ -50,6 +50,7 @@ Comfortable in Agile environments, collaborating closely with designers, PMs, an
 
 ### 🧠 Backend & Database
 
+![Laravel](https://img.shields.io/badge/Laravel-EF4444?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge\&logo=postgresql)
@@ -57,6 +58,7 @@ Comfortable in Agile environments, collaborating closely with designers, PMs, an
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/Drizzle-22C55E?style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger)
+
 
 ---
 
