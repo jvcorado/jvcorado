@@ -76,16 +76,25 @@ Comfortable in Agile environments, collaborating closely with designers, PMs, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvcorado&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcorado&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jvcorado&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcorado&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvcorado&theme=onedark&no-frame=true&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=jvcorado&theme=onedark&no-frame=true&row=1&margin-w=15"
+  />
 </p>
 
 ---
