@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou João Victor Corado!</h1>
+<h1 align="center">👋 Hi, I am João Victor Corado!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Senior+Software+Engineer+%26+Tech+Lead;Full+Stack+%7C+Web+%26+Mobile;Building+scalable+products;Quality%2C+performance+and+product" alt="Typing SVG" />
